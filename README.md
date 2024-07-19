@@ -10,17 +10,17 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 My portfolio website is [https://ankitrpathak.github.io/portfolio-website/](https://ankitrpathak.github.io/portfolio-website/)
+- 👨‍💻 My portfolio website is - [https://ankitrpathak.github.io/portfolio-website/](https://ankitrpathak.github.io/portfolio-website/)
 
 - 💬 Ask me about **java, python and MERN**
 
-- 📫 How to reach me **ankitraj.ofc@gmail.com**
+- 📫 How to reach me? : **ankitraj.ofc@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1H1rirFI0eo_rHvVfjcE8DRy2__bhO4ru/view)
 
-- ⚡ Fun fact **CAPTCHA stands for "Completely Automated Public Turing test to tell Computers and Humans Apart."**
+- ⚡ Fun fact : **CAPTCHA stands for "Completely Automated Public Turing test to tell Computers and Humans Apart."**
 <hr/>
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">🔗 Connect with me 🔗</h2>
 <br/>
 <p align="center">
 <a href="https://linkedin.com/in/ankitrpathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitrpathak" height="30" width="40" /></a>
