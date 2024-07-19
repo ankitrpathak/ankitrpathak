@@ -1,6 +1,23 @@
 <hr/>
 <h1 align="center">Hi 👋, I'm Ankit Raj</h1>
-<h3 align="center">I'm Ankit Raj, currently pursuing a Bachelor's degree in Computer Science and Engineering from Noida Institute of Engineering and Technology (NIET), Greater Noida. Passionate about leveraging technology to solve real-world problems and drive innovation, I have developed a strong foundation in programming languages such as Python and Java, and proficiency in web development, including the MERN stack. My journey in technology has led me to explore the fascinating field of machine learning, where I am actively honing my skills to develop innovative solutions. I continuously seek opportunities to expand my knowledge and enjoy collaborating with peers on challenging projects that push the boundaries of what's possible. Driven by a pursuit of excellence and a desire to make a positive impact in the tech industry.</h3>
+<!--
+<h3 align="center">I'm Ankit Raj, currently pursuing a Bachelor's degree in Computer Science and Engineering from Noida Institute of Engineering and Technology (NIET), Greater Noida. Passionate about leveraging technology to solve real-world problems and drive innovation, I have developed a strong foundation in programming languages such as Python and Java, and proficiency in web development, including the MERN stack. My journey in technology has led me to explore the fascinating field of machine learning, where I am actively honing my skills to develop innovative solutions. I continuously seek opportunities to expand my knowledge and enjoy collaborating with peers on challenging projects that push the boundaries of what's possible. Driven by a pursuit of excellence and a desire to make a positive impact in the tech industry.</h3> -->
+
+<h3 align="left">
+    
+🎓 Pursuing B.Tech in Computer Science at NIET, Greater Noida.
+
+💡 Passionate about leveraging technology to solve real-world problems.
+
+💻 Skilled in Python, Java, and web development (MERN stack).
+
+🤖 Exploring machine learning to develop innovative solutions.
+
+🚀 Continuously expanding my knowledge and collaborating on challenging projects.
+
+🌟 Driven by excellence and aiming to make a positive impact in the tech industry.
+
+</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ankitrpathak&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ankitrpathak" /> </p>
 
