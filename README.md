@@ -27,15 +27,15 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 My portfolio website is - [https://ankitrpathak.github.io/portfolio-website/](https://ankitrpathak.github.io/portfolio-website/)
+- 👨‍💻 My portfolio website is - [https://portfolioankitraj.netlify.app/](https://portfolioankitraj.netlify.app/)
 
 - 💬 Ask me about **java, python and MERN**
 
 - 📫 How to reach me? : **ankitraj.ofc@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1H1rirFI0eo_rHvVfjcE8DRy2__bhO4ru/view)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1laB1IHvLhRg2LlT0tzt69_cZ6AWC51Il/view?usp=sharing)
 
-- ⚡ Fun fact : **CAPTCHA stands for "Completely Automated Public Turing test to tell Computers and Humans Apart."**
+- ⚡ Fun fact: **CAPTCHA stands for "Completely Automated Public Turing Test to Tell Computers and Humans Apart."**
 <hr/>
 <h2 align="center">🔗 Connect with me 🔗</h2>
 <br/>
