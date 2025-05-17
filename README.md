@@ -33,7 +33,7 @@
 
 - 📫 How to reach me? : **ankitraj.ofc@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1laB1IHvLhRg2LlT0tzt69_cZ6AWC51Il/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Szcbqj9btlLuuYsDdKvjAOpPRXlgBIf4/view?usp=sharing)
 
 - ⚡ Fun fact: **CAPTCHA stands for "Completely Automated Public Turing Test to Tell Computers and Humans Apart."**
 <hr/>
